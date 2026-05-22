@@ -10,11 +10,11 @@ It allows users to **start**, **stop**, and **reset** the timer with a clean and
 ```
 Stopwatch-WebApp/
 │
-├── index.html      # Main HTML
-├── style.css       # Styling
-├── script.js       # Functionality
+├── index.html       # Main HTML
+├── styles.css       # Styling
+├── script.js        # Functionality
 ├── LICENSE 
-└── README.md       # Documentation
+└── README.md        # Documentation
 ```
 
 ---
@@ -37,7 +37,7 @@ Stopwatch-WebApp/
    cd Stopwatch-WebApp
    ```
 
-2. Open the folder in your VS Code editor
+2. Open the folder in your `VS Code editor`
 
 3. Run the project by opening `**index.html**` in any web browser
 
